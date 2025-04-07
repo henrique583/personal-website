@@ -47,7 +47,7 @@ const observer = new IntersectionObserver(
         });
     },
     {
-        threshold: 0.6, // Adjusts how much of the section needs to be in view
+        threshold: 0.4, // Adjusts how much of the section needs to be in view
     }
 );
 
